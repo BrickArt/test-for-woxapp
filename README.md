@@ -1,2 +1,2 @@
-# cleveroad-test
-Test quest rof Cleveroad company. (Full-stack position)
+# Wox-app-test
+Test quest rof woxapp company. (web)
